@@ -1,1 +1,1 @@
-private repository for @mirvision
+for rs school
